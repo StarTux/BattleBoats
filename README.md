@@ -1,0 +1,3 @@
+# BattleBoats
+
+BattleBoats plugin.

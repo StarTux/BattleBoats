@@ -1,0 +1,20 @@
+main: com.cavetale.battleboats.BattleBoatsPlugin
+name: BattleBoats
+version: 0.1
+api-version: 1.13
+description: BattleBoats Plugin
+author: StarTux
+website: https://cavetale.com
+depend: []
+softdepend: []
+commands:
+  battleboats:
+    aliases: []
+    description: BattleBoats Command
+    permission: battleboats.battleboats
+    usage: |-
+      /battleboats
+permissions:
+  battleboats.battleboats:
+    description: Use /battleboats
+    default: op
